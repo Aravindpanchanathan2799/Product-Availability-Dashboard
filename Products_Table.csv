@@ -1,0 +1,1001 @@
+ProductID,ProductName,ProductCategory,SupplierID
+1,Premium Juice,Frozen Foods,10
+2,Organic Apple,Beverages,69
+3,Natural Coffee,Snacks,55
+4,Natural Cheese,Snacks,98
+5,Fresh Milk,Bakery,36
+6,Organic Milk,Frozen Foods,40
+7,Premium Juice,Meat,19
+8,Natural Milk,Beverages,13
+9,Natural Bread,Dairy,85
+10,Fresh Bread,Beverages,46
+11,Natural Coffee,Snacks,67
+12,Organic Juice,Produce,65
+13,Premium Cheese,Beverages,60
+14,Fresh Apple,Snacks,3
+15,Organic Cheese,Frozen Foods,79
+16,Premium Juice,Produce,25
+17,Natural Chicken,Snacks,13
+18,Fresh Bread,Frozen Foods,57
+19,Premium Cheese,Bakery,7
+20,Organic Apple,Beverages,77
+21,Natural Coffee,Bakery,21
+22,Fresh Coffee,Frozen Foods,22
+23,Organic Milk,Dairy,87
+24,Fresh Apple,Snacks,33
+25,Premium Chicken,Meat,15
+26,Natural Juice,Dairy,91
+27,Fresh Cheese,Beverages,1
+28,Natural Milk,Beverages,86
+29,Organic Juice,Bakery,15
+30,Premium Cheese,Frozen Foods,13
+31,Natural Cheese,Bakery,26
+32,Premium Milk,Bakery,18
+33,Fresh Bread,Produce,67
+34,Organic Cheese,Meat,3
+35,Premium Milk,Dairy,2
+36,Natural Juice,Produce,79
+37,Fresh Juice,Bakery,24
+38,Organic Chicken,Frozen Foods,33
+39,Natural Bread,Meat,18
+40,Fresh Chicken,Frozen Foods,6
+41,Natural Coffee,Frozen Foods,75
+42,Natural Bread,Beverages,53
+43,Fresh Apple,Snacks,75
+44,Organic Coffee,Dairy,48
+45,Fresh Bread,Beverages,78
+46,Premium Cheese,Snacks,52
+47,Organic Coffee,Beverages,11
+48,Natural Coffee,Snacks,51
+49,Premium Juice,Frozen Foods,95
+50,Organic Cheese,Dairy,5
+51,Premium Cheese,Dairy,79
+52,Premium Milk,Snacks,87
+53,Fresh Coffee,Snacks,53
+54,Premium Juice,Meat,46
+55,Organic Cheese,Frozen Foods,97
+56,Organic Bread,Frozen Foods,7
+57,Premium Bread,Snacks,48
+58,Premium Milk,Bakery,41
+59,Premium Cheese,Snacks,69
+60,Premium Bread,Dairy,50
+61,Fresh Coffee,Meat,91
+62,Organic Cheese,Frozen Foods,8
+63,Organic Coffee,Produce,9
+64,Natural Milk,Frozen Foods,61
+65,Natural Apple,Bakery,7
+66,Organic Juice,Bakery,28
+67,Organic Coffee,Snacks,64
+68,Organic Coffee,Beverages,55
+69,Premium Milk,Dairy,33
+70,Natural Bread,Snacks,100
+71,Premium Chicken,Snacks,54
+72,Premium Milk,Meat,46
+73,Fresh Milk,Meat,61
+74,Natural Juice,Dairy,10
+75,Organic Chicken,Frozen Foods,71
+76,Premium Milk,Dairy,86
+77,Premium Coffee,Meat,66
+78,Premium Juice,Produce,77
+79,Fresh Coffee,Snacks,73
+80,Fresh Chicken,Snacks,22
+81,Fresh Bread,Produce,46
+82,Natural Coffee,Snacks,23
+83,Premium Chicken,Frozen Foods,34
+84,Organic Juice,Meat,46
+85,Organic Apple,Dairy,42
+86,Premium Juice,Snacks,10
+87,Fresh Coffee,Meat,43
+88,Organic Cheese,Produce,67
+89,Organic Juice,Beverages,38
+90,Natural Bread,Beverages,16
+91,Organic Cheese,Beverages,93
+92,Organic Chicken,Frozen Foods,7
+93,Premium Milk,Bakery,84
+94,Fresh Coffee,Dairy,10
+95,Natural Milk,Beverages,10
+96,Fresh Cheese,Dairy,74
+97,Organic Milk,Meat,82
+98,Natural Apple,Produce,56
+99,Organic Milk,Meat,59
+100,Natural Coffee,Meat,57
+101,Premium Chicken,Beverages,33
+102,Natural Apple,Bakery,13
+103,Premium Chicken,Frozen Foods,36
+104,Fresh Chicken,Produce,67
+105,Organic Bread,Snacks,76
+106,Organic Juice,Frozen Foods,87
+107,Premium Apple,Beverages,73
+108,Fresh Milk,Produce,97
+109,Natural Juice,Produce,61
+110,Organic Cheese,Meat,36
+111,Premium Milk,Meat,58
+112,Premium Juice,Snacks,22
+113,Premium Coffee,Produce,66
+114,Organic Milk,Snacks,23
+115,Organic Chicken,Meat,11
+116,Premium Chicken,Meat,85
+117,Fresh Chicken,Dairy,37
+118,Organic Coffee,Frozen Foods,77
+119,Premium Apple,Frozen Foods,58
+120,Natural Cheese,Snacks,81
+121,Natural Apple,Bakery,85
+122,Fresh Juice,Produce,98
+123,Natural Chicken,Bakery,82
+124,Fresh Juice,Produce,62
+125,Premium Apple,Beverages,65
+126,Organic Coffee,Dairy,3
+127,Premium Apple,Beverages,93
+128,Premium Cheese,Meat,83
+129,Premium Chicken,Meat,27
+130,Fresh Apple,Bakery,19
+131,Natural Cheese,Dairy,71
+132,Fresh Bread,Beverages,31
+133,Fresh Apple,Meat,34
+134,Organic Apple,Meat,1
+135,Natural Apple,Beverages,87
+136,Natural Chicken,Produce,57
+137,Fresh Bread,Beverages,41
+138,Fresh Chicken,Bakery,15
+139,Premium Juice,Bakery,64
+140,Fresh Coffee,Beverages,4
+141,Fresh Coffee,Produce,75
+142,Organic Milk,Produce,22
+143,Fresh Chicken,Snacks,42
+144,Natural Juice,Meat,35
+145,Natural Coffee,Dairy,38
+146,Premium Coffee,Snacks,73
+147,Premium Cheese,Produce,78
+148,Organic Bread,Bakery,57
+149,Organic Cheese,Snacks,9
+150,Premium Chicken,Dairy,6
+151,Premium Milk,Meat,16
+152,Premium Juice,Frozen Foods,62
+153,Fresh Chicken,Produce,68
+154,Premium Bread,Produce,28
+155,Organic Coffee,Beverages,67
+156,Premium Coffee,Snacks,49
+157,Organic Apple,Dairy,45
+158,Natural Coffee,Frozen Foods,28
+159,Premium Bread,Snacks,76
+160,Fresh Juice,Snacks,12
+161,Natural Bread,Beverages,43
+162,Premium Coffee,Frozen Foods,29
+163,Organic Juice,Snacks,68
+164,Organic Apple,Meat,49
+165,Fresh Apple,Meat,67
+166,Organic Chicken,Beverages,5
+167,Organic Cheese,Snacks,40
+168,Premium Chicken,Frozen Foods,60
+169,Fresh Chicken,Snacks,1
+170,Organic Cheese,Beverages,31
+171,Premium Chicken,Meat,22
+172,Fresh Coffee,Produce,14
+173,Organic Milk,Produce,26
+174,Fresh Cheese,Bakery,33
+175,Premium Bread,Bakery,1
+176,Fresh Juice,Snacks,75
+177,Organic Bread,Beverages,18
+178,Premium Cheese,Produce,39
+179,Organic Coffee,Dairy,71
+180,Natural Juice,Produce,51
+181,Natural Milk,Bakery,84
+182,Natural Apple,Frozen Foods,81
+183,Fresh Apple,Meat,8
+184,Fresh Bread,Beverages,87
+185,Fresh Apple,Dairy,5
+186,Premium Cheese,Dairy,2
+187,Premium Coffee,Meat,93
+188,Premium Juice,Snacks,87
+189,Organic Chicken,Snacks,58
+190,Premium Juice,Produce,58
+191,Premium Coffee,Dairy,71
+192,Premium Coffee,Snacks,42
+193,Natural Cheese,Snacks,12
+194,Fresh Milk,Meat,3
+195,Premium Cheese,Produce,33
+196,Premium Coffee,Meat,81
+197,Premium Coffee,Produce,62
+198,Premium Coffee,Beverages,84
+199,Organic Apple,Meat,92
+200,Organic Bread,Bakery,9
+201,Natural Apple,Meat,85
+202,Organic Cheese,Meat,25
+203,Fresh Bread,Bakery,59
+204,Premium Milk,Snacks,53
+205,Organic Apple,Produce,40
+206,Fresh Milk,Snacks,32
+207,Premium Apple,Dairy,34
+208,Premium Milk,Beverages,34
+209,Natural Bread,Dairy,17
+210,Fresh Bread,Meat,52
+211,Natural Bread,Snacks,12
+212,Fresh Chicken,Bakery,51
+213,Organic Apple,Produce,91
+214,Fresh Bread,Dairy,35
+215,Premium Juice,Meat,73
+216,Fresh Juice,Meat,82
+217,Organic Bread,Produce,82
+218,Premium Chicken,Bakery,24
+219,Organic Bread,Snacks,15
+220,Organic Juice,Dairy,20
+221,Organic Bread,Meat,61
+222,Natural Bread,Frozen Foods,77
+223,Fresh Cheese,Produce,66
+224,Natural Bread,Bakery,18
+225,Natural Cheese,Beverages,78
+226,Fresh Juice,Frozen Foods,50
+227,Organic Milk,Produce,76
+228,Organic Coffee,Bakery,76
+229,Natural Milk,Snacks,45
+230,Organic Bread,Meat,93
+231,Natural Chicken,Beverages,57
+232,Natural Bread,Snacks,64
+233,Premium Chicken,Frozen Foods,63
+234,Natural Juice,Frozen Foods,87
+235,Premium Milk,Snacks,63
+236,Natural Chicken,Beverages,16
+237,Premium Apple,Meat,7
+238,Premium Juice,Snacks,45
+239,Natural Coffee,Frozen Foods,31
+240,Premium Chicken,Frozen Foods,28
+241,Natural Chicken,Dairy,6
+242,Fresh Juice,Frozen Foods,51
+243,Fresh Cheese,Produce,32
+244,Fresh Milk,Meat,46
+245,Fresh Coffee,Snacks,6
+246,Organic Milk,Bakery,84
+247,Organic Cheese,Snacks,8
+248,Natural Apple,Dairy,87
+249,Natural Milk,Frozen Foods,86
+250,Natural Bread,Dairy,62
+251,Organic Bread,Dairy,51
+252,Fresh Chicken,Bakery,47
+253,Natural Cheese,Beverages,56
+254,Organic Chicken,Produce,80
+255,Natural Cheese,Meat,90
+256,Premium Milk,Meat,45
+257,Fresh Coffee,Beverages,81
+258,Natural Milk,Snacks,66
+259,Premium Apple,Snacks,33
+260,Fresh Apple,Meat,48
+261,Fresh Apple,Meat,16
+262,Fresh Apple,Meat,7
+263,Fresh Bread,Dairy,11
+264,Natural Juice,Snacks,90
+265,Natural Juice,Bakery,35
+266,Organic Bread,Frozen Foods,72
+267,Premium Coffee,Frozen Foods,51
+268,Premium Bread,Meat,18
+269,Premium Juice,Frozen Foods,25
+270,Fresh Bread,Beverages,44
+271,Premium Cheese,Bakery,44
+272,Fresh Chicken,Dairy,53
+273,Organic Coffee,Frozen Foods,16
+274,Natural Milk,Meat,38
+275,Natural Milk,Beverages,29
+276,Organic Juice,Beverages,41
+277,Organic Cheese,Beverages,34
+278,Fresh Cheese,Produce,60
+279,Natural Chicken,Snacks,79
+280,Premium Chicken,Frozen Foods,65
+281,Organic Apple,Bakery,7
+282,Fresh Apple,Snacks,10
+283,Premium Cheese,Frozen Foods,68
+284,Premium Bread,Snacks,29
+285,Fresh Cheese,Produce,73
+286,Natural Juice,Meat,66
+287,Organic Apple,Bakery,91
+288,Natural Coffee,Beverages,88
+289,Fresh Chicken,Dairy,34
+290,Organic Bread,Snacks,59
+291,Organic Coffee,Beverages,15
+292,Premium Milk,Bakery,35
+293,Organic Apple,Frozen Foods,97
+294,Premium Cheese,Snacks,70
+295,Organic Apple,Bakery,40
+296,Premium Chicken,Produce,60
+297,Premium Cheese,Dairy,94
+298,Organic Milk,Beverages,31
+299,Organic Juice,Beverages,38
+300,Fresh Juice,Meat,80
+301,Fresh Coffee,Meat,82
+302,Premium Coffee,Produce,68
+303,Fresh Apple,Bakery,83
+304,Premium Bread,Frozen Foods,74
+305,Natural Bread,Snacks,69
+306,Organic Bread,Beverages,53
+307,Premium Cheese,Dairy,65
+308,Premium Bread,Meat,43
+309,Natural Chicken,Bakery,37
+310,Natural Coffee,Meat,37
+311,Organic Chicken,Meat,19
+312,Premium Juice,Snacks,22
+313,Premium Coffee,Snacks,95
+314,Natural Apple,Beverages,49
+315,Organic Juice,Bakery,23
+316,Fresh Bread,Meat,14
+317,Natural Milk,Dairy,8
+318,Fresh Apple,Frozen Foods,85
+319,Organic Cheese,Snacks,11
+320,Fresh Coffee,Meat,78
+321,Premium Cheese,Meat,84
+322,Organic Juice,Meat,89
+323,Premium Coffee,Bakery,4
+324,Fresh Apple,Meat,34
+325,Fresh Apple,Beverages,77
+326,Fresh Cheese,Bakery,14
+327,Organic Juice,Dairy,38
+328,Premium Juice,Meat,17
+329,Fresh Juice,Bakery,84
+330,Premium Juice,Meat,78
+331,Organic Juice,Bakery,81
+332,Organic Cheese,Snacks,17
+333,Natural Milk,Bakery,44
+334,Natural Coffee,Beverages,42
+335,Fresh Milk,Meat,68
+336,Premium Cheese,Meat,24
+337,Fresh Milk,Snacks,45
+338,Fresh Coffee,Bakery,29
+339,Organic Juice,Produce,75
+340,Organic Cheese,Dairy,45
+341,Organic Juice,Bakery,54
+342,Organic Cheese,Snacks,31
+343,Organic Coffee,Beverages,81
+344,Natural Coffee,Snacks,47
+345,Organic Milk,Dairy,84
+346,Premium Coffee,Meat,37
+347,Fresh Coffee,Meat,95
+348,Natural Milk,Snacks,99
+349,Organic Juice,Frozen Foods,47
+350,Organic Bread,Dairy,29
+351,Fresh Chicken,Meat,39
+352,Premium Coffee,Produce,53
+353,Natural Juice,Meat,97
+354,Natural Cheese,Beverages,82
+355,Organic Coffee,Meat,81
+356,Organic Juice,Snacks,14
+357,Natural Apple,Meat,26
+358,Organic Juice,Snacks,65
+359,Natural Coffee,Beverages,88
+360,Premium Coffee,Produce,56
+361,Fresh Apple,Bakery,11
+362,Natural Cheese,Dairy,85
+363,Organic Cheese,Frozen Foods,86
+364,Premium Milk,Produce,29
+365,Premium Cheese,Dairy,77
+366,Premium Cheese,Frozen Foods,28
+367,Organic Bread,Snacks,91
+368,Fresh Coffee,Frozen Foods,15
+369,Organic Coffee,Beverages,44
+370,Natural Milk,Meat,95
+371,Fresh Chicken,Produce,23
+372,Premium Coffee,Bakery,46
+373,Natural Coffee,Bakery,35
+374,Fresh Milk,Frozen Foods,3
+375,Organic Juice,Dairy,6
+376,Premium Bread,Beverages,51
+377,Organic Cheese,Frozen Foods,24
+378,Premium Bread,Dairy,100
+379,Natural Cheese,Dairy,38
+380,Premium Bread,Bakery,3
+381,Natural Coffee,Bakery,94
+382,Premium Coffee,Dairy,84
+383,Fresh Cheese,Dairy,65
+384,Premium Milk,Dairy,80
+385,Premium Milk,Dairy,14
+386,Organic Chicken,Dairy,29
+387,Natural Apple,Beverages,83
+388,Natural Cheese,Dairy,70
+389,Organic Bread,Meat,14
+390,Organic Cheese,Frozen Foods,71
+391,Fresh Bread,Meat,45
+392,Natural Apple,Frozen Foods,1
+393,Natural Milk,Dairy,8
+394,Fresh Cheese,Produce,26
+395,Fresh Bread,Beverages,84
+396,Premium Juice,Dairy,55
+397,Organic Cheese,Produce,73
+398,Natural Chicken,Frozen Foods,53
+399,Fresh Bread,Frozen Foods,12
+400,Fresh Milk,Produce,29
+401,Premium Cheese,Produce,31
+402,Organic Milk,Snacks,5
+403,Fresh Chicken,Produce,42
+404,Organic Bread,Meat,80
+405,Fresh Coffee,Bakery,46
+406,Natural Juice,Snacks,12
+407,Fresh Chicken,Beverages,91
+408,Natural Coffee,Produce,60
+409,Fresh Chicken,Frozen Foods,2
+410,Organic Bread,Dairy,52
+411,Natural Coffee,Bakery,25
+412,Fresh Juice,Bakery,15
+413,Natural Apple,Frozen Foods,43
+414,Natural Coffee,Snacks,62
+415,Organic Bread,Snacks,25
+416,Premium Milk,Beverages,42
+417,Natural Juice,Snacks,67
+418,Fresh Juice,Produce,9
+419,Fresh Cheese,Bakery,98
+420,Premium Bread,Beverages,7
+421,Premium Apple,Dairy,53
+422,Premium Apple,Frozen Foods,51
+423,Organic Apple,Snacks,99
+424,Natural Cheese,Frozen Foods,56
+425,Fresh Chicken,Produce,40
+426,Natural Milk,Snacks,48
+427,Premium Coffee,Frozen Foods,64
+428,Fresh Coffee,Beverages,99
+429,Fresh Juice,Bakery,26
+430,Organic Apple,Bakery,2
+431,Fresh Chicken,Beverages,79
+432,Natural Apple,Dairy,35
+433,Premium Apple,Snacks,74
+434,Premium Cheese,Meat,63
+435,Natural Milk,Produce,78
+436,Premium Bread,Beverages,74
+437,Natural Juice,Snacks,34
+438,Natural Apple,Bakery,5
+439,Organic Apple,Produce,55
+440,Organic Coffee,Bakery,82
+441,Premium Apple,Frozen Foods,18
+442,Natural Juice,Meat,78
+443,Premium Bread,Frozen Foods,47
+444,Natural Bread,Meat,70
+445,Fresh Cheese,Meat,64
+446,Premium Juice,Frozen Foods,82
+447,Natural Milk,Bakery,7
+448,Fresh Cheese,Produce,78
+449,Organic Cheese,Bakery,46
+450,Fresh Juice,Produce,30
+451,Fresh Cheese,Meat,5
+452,Fresh Juice,Bakery,20
+453,Fresh Chicken,Produce,5
+454,Fresh Apple,Snacks,94
+455,Fresh Cheese,Snacks,52
+456,Organic Chicken,Frozen Foods,99
+457,Fresh Milk,Bakery,55
+458,Premium Juice,Produce,26
+459,Organic Chicken,Frozen Foods,76
+460,Premium Juice,Snacks,20
+461,Premium Apple,Beverages,36
+462,Fresh Cheese,Dairy,79
+463,Fresh Juice,Snacks,87
+464,Premium Cheese,Dairy,34
+465,Fresh Coffee,Produce,13
+466,Fresh Juice,Beverages,37
+467,Premium Juice,Snacks,89
+468,Premium Coffee,Frozen Foods,75
+469,Premium Coffee,Frozen Foods,90
+470,Organic Cheese,Beverages,39
+471,Natural Apple,Dairy,98
+472,Fresh Chicken,Produce,50
+473,Organic Chicken,Dairy,50
+474,Organic Chicken,Snacks,93
+475,Natural Bread,Dairy,52
+476,Fresh Cheese,Meat,81
+477,Natural Coffee,Frozen Foods,73
+478,Natural Cheese,Frozen Foods,8
+479,Fresh Apple,Bakery,61
+480,Fresh Milk,Bakery,83
+481,Organic Milk,Dairy,55
+482,Fresh Chicken,Beverages,33
+483,Premium Coffee,Dairy,9
+484,Organic Milk,Bakery,67
+485,Premium Apple,Bakery,31
+486,Organic Chicken,Meat,61
+487,Premium Bread,Dairy,43
+488,Natural Milk,Bakery,69
+489,Organic Bread,Produce,36
+490,Fresh Chicken,Frozen Foods,5
+491,Fresh Coffee,Snacks,88
+492,Organic Chicken,Snacks,36
+493,Premium Cheese,Produce,100
+494,Organic Cheese,Beverages,28
+495,Premium Juice,Dairy,99
+496,Premium Cheese,Frozen Foods,95
+497,Organic Milk,Dairy,8
+498,Premium Cheese,Snacks,64
+499,Organic Cheese,Produce,37
+500,Fresh Chicken,Beverages,81
+501,Natural Juice,Frozen Foods,68
+502,Natural Juice,Beverages,96
+503,Premium Chicken,Dairy,15
+504,Natural Milk,Produce,61
+505,Fresh Apple,Beverages,79
+506,Natural Cheese,Frozen Foods,4
+507,Organic Milk,Beverages,7
+508,Organic Coffee,Produce,78
+509,Natural Coffee,Beverages,37
+510,Natural Milk,Dairy,39
+511,Fresh Cheese,Snacks,57
+512,Organic Cheese,Dairy,61
+513,Premium Chicken,Bakery,68
+514,Fresh Bread,Dairy,95
+515,Premium Milk,Bakery,38
+516,Premium Cheese,Bakery,77
+517,Fresh Apple,Snacks,58
+518,Natural Coffee,Beverages,53
+519,Organic Coffee,Beverages,40
+520,Fresh Bread,Produce,65
+521,Organic Coffee,Meat,25
+522,Fresh Apple,Dairy,12
+523,Fresh Bread,Frozen Foods,74
+524,Fresh Cheese,Bakery,50
+525,Premium Chicken,Frozen Foods,39
+526,Natural Cheese,Bakery,57
+527,Natural Milk,Meat,27
+528,Fresh Milk,Snacks,27
+529,Natural Bread,Beverages,45
+530,Premium Juice,Snacks,100
+531,Natural Milk,Beverages,29
+532,Natural Apple,Frozen Foods,92
+533,Organic Apple,Produce,50
+534,Organic Chicken,Snacks,13
+535,Organic Apple,Frozen Foods,86
+536,Natural Coffee,Bakery,46
+537,Premium Chicken,Snacks,90
+538,Organic Bread,Frozen Foods,45
+539,Organic Milk,Bakery,9
+540,Natural Apple,Beverages,69
+541,Natural Bread,Bakery,85
+542,Organic Coffee,Meat,32
+543,Organic Coffee,Beverages,35
+544,Fresh Cheese,Beverages,7
+545,Premium Bread,Dairy,55
+546,Organic Chicken,Frozen Foods,90
+547,Premium Apple,Meat,86
+548,Fresh Apple,Dairy,72
+549,Organic Milk,Bakery,93
+550,Fresh Bread,Beverages,64
+551,Fresh Apple,Frozen Foods,80
+552,Premium Juice,Frozen Foods,51
+553,Premium Coffee,Beverages,13
+554,Fresh Chicken,Bakery,21
+555,Premium Milk,Bakery,14
+556,Fresh Juice,Frozen Foods,80
+557,Organic Cheese,Beverages,3
+558,Fresh Chicken,Meat,56
+559,Fresh Chicken,Bakery,37
+560,Fresh Juice,Dairy,81
+561,Organic Milk,Dairy,56
+562,Fresh Bread,Dairy,62
+563,Premium Apple,Produce,9
+564,Natural Juice,Dairy,31
+565,Premium Juice,Bakery,100
+566,Fresh Juice,Bakery,72
+567,Organic Cheese,Beverages,53
+568,Premium Coffee,Meat,77
+569,Fresh Milk,Frozen Foods,83
+570,Natural Juice,Bakery,8
+571,Fresh Cheese,Frozen Foods,98
+572,Premium Cheese,Produce,65
+573,Premium Bread,Bakery,45
+574,Natural Coffee,Meat,69
+575,Fresh Cheese,Snacks,35
+576,Organic Bread,Bakery,88
+577,Premium Bread,Produce,79
+578,Natural Bread,Produce,64
+579,Premium Bread,Produce,19
+580,Natural Bread,Bakery,97
+581,Premium Coffee,Snacks,44
+582,Natural Apple,Bakery,92
+583,Premium Juice,Bakery,6
+584,Fresh Cheese,Beverages,13
+585,Natural Apple,Meat,16
+586,Fresh Bread,Snacks,17
+587,Premium Bread,Produce,33
+588,Organic Chicken,Frozen Foods,71
+589,Premium Bread,Dairy,35
+590,Organic Bread,Beverages,95
+591,Natural Chicken,Bakery,90
+592,Premium Chicken,Snacks,85
+593,Premium Cheese,Snacks,26
+594,Fresh Milk,Bakery,64
+595,Natural Bread,Dairy,56
+596,Premium Cheese,Meat,13
+597,Premium Coffee,Frozen Foods,31
+598,Organic Bread,Snacks,54
+599,Natural Milk,Beverages,51
+600,Fresh Apple,Meat,17
+601,Organic Cheese,Beverages,95
+602,Premium Cheese,Bakery,16
+603,Natural Bread,Produce,66
+604,Fresh Bread,Bakery,73
+605,Premium Chicken,Frozen Foods,61
+606,Organic Bread,Frozen Foods,85
+607,Fresh Coffee,Produce,57
+608,Natural Apple,Bakery,83
+609,Natural Juice,Beverages,3
+610,Natural Juice,Snacks,5
+611,Natural Chicken,Frozen Foods,65
+612,Fresh Coffee,Dairy,58
+613,Fresh Juice,Frozen Foods,66
+614,Fresh Chicken,Produce,77
+615,Fresh Milk,Produce,42
+616,Organic Coffee,Dairy,64
+617,Premium Juice,Bakery,50
+618,Organic Bread,Dairy,63
+619,Organic Chicken,Frozen Foods,29
+620,Premium Juice,Snacks,96
+621,Natural Milk,Snacks,49
+622,Natural Juice,Beverages,81
+623,Natural Chicken,Snacks,69
+624,Natural Apple,Beverages,30
+625,Premium Apple,Produce,8
+626,Fresh Chicken,Bakery,6
+627,Premium Bread,Snacks,44
+628,Organic Milk,Snacks,49
+629,Organic Apple,Produce,21
+630,Premium Coffee,Bakery,61
+631,Natural Coffee,Meat,32
+632,Premium Cheese,Produce,72
+633,Natural Cheese,Snacks,74
+634,Premium Chicken,Beverages,87
+635,Natural Cheese,Snacks,98
+636,Natural Juice,Snacks,14
+637,Organic Coffee,Snacks,38
+638,Premium Coffee,Beverages,57
+639,Natural Bread,Produce,32
+640,Fresh Apple,Snacks,47
+641,Natural Apple,Meat,27
+642,Premium Chicken,Produce,25
+643,Premium Cheese,Frozen Foods,10
+644,Fresh Chicken,Beverages,30
+645,Premium Juice,Meat,39
+646,Fresh Chicken,Produce,62
+647,Organic Juice,Meat,25
+648,Organic Bread,Frozen Foods,87
+649,Premium Bread,Produce,16
+650,Premium Milk,Produce,33
+651,Natural Juice,Snacks,58
+652,Natural Chicken,Beverages,32
+653,Premium Apple,Meat,77
+654,Fresh Coffee,Produce,50
+655,Fresh Chicken,Bakery,52
+656,Natural Apple,Dairy,50
+657,Natural Chicken,Beverages,31
+658,Organic Milk,Frozen Foods,3
+659,Organic Cheese,Beverages,95
+660,Organic Apple,Snacks,51
+661,Premium Juice,Produce,97
+662,Premium Chicken,Dairy,22
+663,Fresh Chicken,Meat,36
+664,Premium Coffee,Beverages,6
+665,Organic Apple,Bakery,50
+666,Natural Bread,Frozen Foods,89
+667,Fresh Apple,Bakery,66
+668,Fresh Juice,Snacks,48
+669,Natural Juice,Produce,54
+670,Premium Apple,Produce,85
+671,Natural Milk,Produce,44
+672,Fresh Bread,Meat,89
+673,Fresh Apple,Meat,73
+674,Natural Juice,Dairy,77
+675,Organic Milk,Frozen Foods,37
+676,Premium Chicken,Frozen Foods,41
+677,Natural Apple,Bakery,58
+678,Natural Milk,Meat,20
+679,Natural Cheese,Snacks,56
+680,Fresh Apple,Snacks,8
+681,Natural Milk,Frozen Foods,51
+682,Natural Juice,Snacks,77
+683,Natural Cheese,Snacks,28
+684,Fresh Juice,Beverages,99
+685,Natural Coffee,Beverages,69
+686,Premium Bread,Produce,12
+687,Premium Coffee,Frozen Foods,98
+688,Organic Juice,Dairy,40
+689,Organic Cheese,Snacks,80
+690,Fresh Juice,Frozen Foods,34
+691,Organic Bread,Frozen Foods,94
+692,Fresh Cheese,Produce,76
+693,Fresh Coffee,Frozen Foods,20
+694,Fresh Coffee,Meat,51
+695,Premium Chicken,Bakery,51
+696,Organic Milk,Frozen Foods,5
+697,Premium Apple,Frozen Foods,14
+698,Natural Apple,Meat,34
+699,Natural Milk,Dairy,48
+700,Premium Apple,Produce,46
+701,Organic Milk,Frozen Foods,61
+702,Organic Juice,Meat,52
+703,Natural Chicken,Bakery,33
+704,Organic Juice,Beverages,62
+705,Premium Coffee,Snacks,17
+706,Natural Bread,Dairy,100
+707,Organic Apple,Bakery,74
+708,Fresh Milk,Produce,30
+709,Fresh Coffee,Dairy,34
+710,Premium Juice,Beverages,83
+711,Premium Apple,Frozen Foods,54
+712,Natural Apple,Frozen Foods,71
+713,Premium Apple,Meat,30
+714,Organic Juice,Produce,82
+715,Premium Cheese,Produce,37
+716,Fresh Chicken,Beverages,68
+717,Premium Juice,Beverages,98
+718,Organic Cheese,Produce,59
+719,Fresh Coffee,Dairy,80
+720,Organic Juice,Snacks,73
+721,Fresh Coffee,Beverages,69
+722,Organic Milk,Meat,3
+723,Premium Apple,Bakery,48
+724,Natural Chicken,Frozen Foods,97
+725,Premium Apple,Meat,79
+726,Premium Chicken,Meat,78
+727,Premium Juice,Frozen Foods,58
+728,Natural Bread,Snacks,73
+729,Fresh Apple,Beverages,59
+730,Natural Bread,Bakery,18
+731,Natural Bread,Produce,63
+732,Fresh Chicken,Frozen Foods,62
+733,Premium Bread,Meat,85
+734,Premium Bread,Snacks,15
+735,Natural Milk,Frozen Foods,69
+736,Organic Apple,Frozen Foods,4
+737,Premium Juice,Produce,95
+738,Fresh Cheese,Beverages,11
+739,Fresh Coffee,Dairy,2
+740,Fresh Coffee,Dairy,32
+741,Fresh Milk,Frozen Foods,16
+742,Organic Juice,Meat,70
+743,Organic Milk,Dairy,42
+744,Natural Bread,Frozen Foods,78
+745,Natural Bread,Dairy,93
+746,Organic Milk,Meat,88
+747,Natural Chicken,Bakery,74
+748,Fresh Chicken,Produce,7
+749,Organic Cheese,Produce,14
+750,Premium Cheese,Dairy,21
+751,Fresh Cheese,Dairy,33
+752,Organic Apple,Meat,67
+753,Natural Bread,Dairy,53
+754,Organic Cheese,Produce,32
+755,Natural Chicken,Meat,18
+756,Premium Cheese,Frozen Foods,92
+757,Premium Coffee,Produce,35
+758,Organic Milk,Dairy,36
+759,Premium Coffee,Snacks,78
+760,Organic Milk,Dairy,73
+761,Natural Apple,Bakery,65
+762,Fresh Milk,Frozen Foods,70
+763,Fresh Coffee,Bakery,62
+764,Natural Juice,Snacks,20
+765,Organic Apple,Produce,25
+766,Natural Coffee,Meat,56
+767,Fresh Chicken,Produce,23
+768,Fresh Coffee,Frozen Foods,98
+769,Fresh Bread,Beverages,30
+770,Natural Cheese,Meat,29
+771,Natural Chicken,Frozen Foods,21
+772,Fresh Apple,Snacks,71
+773,Premium Coffee,Snacks,32
+774,Organic Chicken,Produce,35
+775,Fresh Bread,Produce,94
+776,Natural Apple,Beverages,80
+777,Organic Apple,Meat,28
+778,Fresh Coffee,Meat,13
+779,Natural Cheese,Produce,68
+780,Organic Apple,Beverages,38
+781,Premium Coffee,Bakery,99
+782,Premium Bread,Produce,82
+783,Natural Chicken,Bakery,96
+784,Natural Juice,Produce,81
+785,Fresh Cheese,Snacks,30
+786,Organic Coffee,Bakery,29
+787,Premium Milk,Meat,72
+788,Natural Chicken,Snacks,35
+789,Fresh Cheese,Produce,45
+790,Organic Coffee,Dairy,26
+791,Organic Milk,Meat,48
+792,Natural Apple,Produce,21
+793,Natural Milk,Meat,54
+794,Premium Juice,Meat,94
+795,Natural Milk,Snacks,70
+796,Premium Juice,Bakery,14
+797,Organic Bread,Dairy,62
+798,Organic Apple,Meat,59
+799,Premium Juice,Produce,25
+800,Fresh Coffee,Bakery,67
+801,Fresh Cheese,Snacks,54
+802,Natural Apple,Dairy,64
+803,Fresh Coffee,Frozen Foods,6
+804,Natural Coffee,Meat,42
+805,Fresh Cheese,Produce,72
+806,Premium Apple,Snacks,11
+807,Fresh Apple,Produce,78
+808,Organic Milk,Dairy,1
+809,Organic Juice,Produce,56
+810,Premium Milk,Produce,93
+811,Fresh Cheese,Produce,41
+812,Premium Milk,Dairy,94
+813,Fresh Coffee,Snacks,88
+814,Fresh Milk,Frozen Foods,48
+815,Premium Coffee,Frozen Foods,20
+816,Premium Coffee,Snacks,97
+817,Organic Bread,Bakery,33
+818,Natural Juice,Beverages,65
+819,Natural Coffee,Bakery,91
+820,Organic Cheese,Frozen Foods,9
+821,Fresh Coffee,Bakery,58
+822,Organic Coffee,Dairy,54
+823,Fresh Juice,Frozen Foods,73
+824,Natural Bread,Bakery,94
+825,Premium Coffee,Meat,92
+826,Natural Bread,Produce,18
+827,Fresh Bread,Beverages,89
+828,Fresh Chicken,Produce,18
+829,Premium Bread,Frozen Foods,92
+830,Premium Apple,Meat,100
+831,Premium Cheese,Meat,40
+832,Fresh Coffee,Produce,50
+833,Premium Bread,Produce,94
+834,Natural Apple,Produce,97
+835,Premium Juice,Bakery,93
+836,Premium Juice,Dairy,88
+837,Fresh Juice,Frozen Foods,1
+838,Natural Coffee,Snacks,57
+839,Organic Coffee,Produce,11
+840,Organic Milk,Meat,99
+841,Organic Chicken,Dairy,29
+842,Organic Chicken,Frozen Foods,99
+843,Premium Chicken,Frozen Foods,55
+844,Fresh Coffee,Bakery,50
+845,Fresh Apple,Bakery,94
+846,Organic Apple,Meat,86
+847,Natural Cheese,Dairy,47
+848,Premium Juice,Dairy,20
+849,Premium Coffee,Bakery,12
+850,Premium Milk,Bakery,17
+851,Fresh Apple,Meat,46
+852,Premium Apple,Beverages,26
+853,Premium Chicken,Beverages,19
+854,Natural Apple,Frozen Foods,74
+855,Premium Bread,Meat,80
+856,Organic Milk,Meat,57
+857,Premium Coffee,Bakery,76
+858,Natural Apple,Produce,18
+859,Natural Bread,Beverages,86
+860,Natural Milk,Frozen Foods,90
+861,Organic Bread,Meat,83
+862,Natural Juice,Produce,52
+863,Organic Apple,Frozen Foods,9
+864,Fresh Apple,Meat,67
+865,Premium Coffee,Beverages,19
+866,Organic Milk,Bakery,15
+867,Premium Juice,Dairy,33
+868,Organic Milk,Dairy,25
+869,Fresh Cheese,Snacks,27
+870,Premium Cheese,Produce,24
+871,Fresh Bread,Produce,76
+872,Natural Bread,Bakery,96
+873,Organic Coffee,Snacks,31
+874,Natural Bread,Beverages,73
+875,Fresh Coffee,Meat,2
+876,Premium Juice,Frozen Foods,66
+877,Organic Coffee,Snacks,70
+878,Premium Cheese,Meat,7
+879,Natural Cheese,Snacks,12
+880,Natural Juice,Produce,31
+881,Organic Apple,Snacks,41
+882,Premium Chicken,Snacks,51
+883,Organic Apple,Beverages,90
+884,Premium Apple,Bakery,71
+885,Organic Juice,Meat,32
+886,Organic Juice,Frozen Foods,12
+887,Organic Juice,Snacks,92
+888,Premium Apple,Produce,30
+889,Fresh Bread,Dairy,62
+890,Organic Milk,Frozen Foods,22
+891,Organic Cheese,Frozen Foods,14
+892,Fresh Juice,Dairy,16
+893,Premium Cheese,Snacks,75
+894,Premium Apple,Bakery,61
+895,Organic Chicken,Snacks,42
+896,Organic Coffee,Dairy,55
+897,Natural Bread,Produce,48
+898,Natural Milk,Snacks,54
+899,Fresh Chicken,Frozen Foods,67
+900,Fresh Milk,Frozen Foods,22
+901,Premium Apple,Meat,25
+902,Organic Chicken,Dairy,76
+903,Natural Chicken,Meat,88
+904,Natural Milk,Frozen Foods,9
+905,Organic Milk,Snacks,45
+906,Fresh Cheese,Produce,71
+907,Premium Milk,Frozen Foods,8
+908,Organic Cheese,Bakery,57
+909,Premium Coffee,Beverages,7
+910,Fresh Chicken,Frozen Foods,55
+911,Organic Chicken,Produce,51
+912,Organic Coffee,Meat,58
+913,Natural Coffee,Dairy,15
+914,Premium Bread,Bakery,33
+915,Natural Cheese,Frozen Foods,53
+916,Premium Milk,Dairy,12
+917,Fresh Bread,Frozen Foods,21
+918,Fresh Chicken,Frozen Foods,59
+919,Fresh Juice,Frozen Foods,10
+920,Natural Coffee,Bakery,52
+921,Premium Coffee,Frozen Foods,81
+922,Natural Milk,Bakery,46
+923,Premium Bread,Frozen Foods,52
+924,Premium Bread,Meat,46
+925,Natural Bread,Frozen Foods,6
+926,Natural Chicken,Dairy,47
+927,Natural Coffee,Produce,81
+928,Premium Chicken,Frozen Foods,73
+929,Premium Milk,Bakery,40
+930,Fresh Apple,Beverages,82
+931,Fresh Juice,Dairy,75
+932,Premium Apple,Bakery,58
+933,Premium Bread,Snacks,5
+934,Organic Juice,Beverages,35
+935,Fresh Chicken,Produce,7
+936,Natural Cheese,Meat,100
+937,Premium Cheese,Produce,94
+938,Premium Coffee,Meat,7
+939,Fresh Bread,Bakery,94
+940,Natural Juice,Snacks,4
+941,Premium Bread,Bakery,41
+942,Fresh Cheese,Produce,77
+943,Fresh Cheese,Bakery,77
+944,Fresh Apple,Bakery,98
+945,Organic Coffee,Dairy,65
+946,Premium Cheese,Beverages,43
+947,Organic Cheese,Meat,100
+948,Premium Cheese,Beverages,39
+949,Fresh Bread,Meat,87
+950,Natural Milk,Meat,91
+951,Premium Bread,Bakery,38
+952,Fresh Coffee,Meat,69
+953,Fresh Coffee,Meat,67
+954,Natural Apple,Bakery,54
+955,Premium Chicken,Dairy,66
+956,Organic Juice,Bakery,35
+957,Premium Milk,Beverages,18
+958,Natural Juice,Produce,54
+959,Organic Milk,Produce,53
+960,Premium Milk,Frozen Foods,73
+961,Organic Juice,Frozen Foods,23
+962,Organic Coffee,Frozen Foods,1
+963,Natural Bread,Bakery,3
+964,Organic Milk,Meat,30
+965,Organic Cheese,Beverages,68
+966,Premium Juice,Snacks,55
+967,Natural Coffee,Beverages,54
+968,Fresh Cheese,Meat,83
+969,Natural Milk,Produce,25
+970,Fresh Coffee,Meat,35
+971,Natural Juice,Snacks,28
+972,Natural Apple,Beverages,94
+973,Organic Cheese,Bakery,73
+974,Natural Apple,Meat,12
+975,Organic Cheese,Dairy,81
+976,Natural Chicken,Dairy,42
+977,Organic Apple,Beverages,77
+978,Fresh Coffee,Meat,89
+979,Natural Juice,Dairy,2
+980,Natural Apple,Produce,21
+981,Natural Chicken,Beverages,11
+982,Fresh Chicken,Meat,4
+983,Natural Chicken,Beverages,60
+984,Premium Apple,Produce,71
+985,Premium Juice,Frozen Foods,5
+986,Natural Cheese,Bakery,75
+987,Organic Milk,Meat,41
+988,Natural Cheese,Dairy,24
+989,Premium Apple,Bakery,22
+990,Fresh Cheese,Snacks,87
+991,Premium Coffee,Dairy,6
+992,Organic Chicken,Beverages,51
+993,Organic Cheese,Produce,29
+994,Natural Chicken,Dairy,82
+995,Premium Bread,Meat,74
+996,Natural Juice,Beverages,32
+997,Organic Milk,Dairy,60
+998,Fresh Cheese,Produce,68
+999,Fresh Milk,Meat,33
+1000,Premium Chicken,Bakery,31

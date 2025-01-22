@@ -1,0 +1,101 @@
+StoreID,StoreName,Region,State,AvailabilityPercentage,MissingDistPts
+1,Hilltop Depot,Roanoke,Virginia,93.06,106
+2,Downtown Market,Norfolk,Virginia,98.71,294
+3,Downtown Depot,Roanoke,Virginia,93.03,151
+4,Hilltop Market,Virginia Beach,Virginia,96.71,386
+5,Green Valley Supermart,Charlottesville,Virginia,96.05,399
+6,Green Valley Grocery,Alexandria,Virginia,96.28,221
+7,Downtown Market,Charlottesville,Virginia,90.68,479
+8,Central Bazaar,Alexandria,Virginia,98.48,378
+9,Central Bazaar,Norfolk,Virginia,98.88,234
+10,Downtown Grocery,Arlington,Virginia,90.82,358
+11,Hilltop Bazaar,Norfolk,Virginia,90.81,344
+12,Central Bazaar,Norfolk,Virginia,86.71,193
+13,Westside Bazaar,Richmond,Virginia,95.57,165
+14,Green Valley Market,Arlington,Virginia,98.73,68
+15,Hilltop Market,Richmond,Virginia,92.67,413
+16,Green Valley Depot,Alexandria,Virginia,98.3,96
+17,Green Valley Bazaar,Newport News,Virginia,85.45,215
+18,Westside Bazaar,Virginia Beach,Virginia,91.12,385
+19,Green Valley Market,Chesapeake,Virginia,92.25,309
+20,Green Valley Bazaar,Hampton,Virginia,94.42,382
+21,Downtown Bazaar,Roanoke,Virginia,85.82,392
+22,Downtown Market,Charlottesville,Virginia,91.66,443
+23,Westside Supermart,Richmond,Virginia,89.12,320
+24,Green Valley Market,Alexandria,Virginia,93.91,388
+25,Westside Grocery,Charlottesville,Virginia,95.43,445
+26,Central Depot,Charlottesville,Virginia,93.85,443
+27,Hilltop Grocery,Hampton,Virginia,98.32,191
+28,Westside Depot,Virginia Beach,Virginia,98.74,154
+29,Hilltop Grocery,Hampton,Virginia,87.56,486
+30,Central Depot,Chesapeake,Virginia,89.43,263
+31,Westside Bazaar,Norfolk,Virginia,86.79,271
+32,Hilltop Depot,Charlottesville,Virginia,90.08,446
+33,Green Valley Grocery,Newport News,Virginia,96.51,52
+34,Westside Supermart,Newport News,Virginia,97.56,328
+35,Westside Market,Newport News,Virginia,93.79,395
+36,Westside Grocery,Roanoke,Virginia,88.38,199
+37,Downtown Supermart,Chesapeake,Virginia,95.37,82
+38,Hilltop Market,Chesapeake,Virginia,94.64,464
+39,Central Bazaar,Norfolk,Virginia,87.92,367
+40,Green Valley Bazaar,Newport News,Virginia,96.24,281
+41,Green Valley Depot,Roanoke,Virginia,92.59,268
+42,Hilltop Depot,Alexandria,Virginia,89.76,187
+43,Hilltop Depot,Virginia Beach,Virginia,97.36,373
+44,Green Valley Depot,Roanoke,Virginia,87.81,399
+45,Westside Market,Arlington,Virginia,98.61,64
+46,Green Valley Supermart,Hampton,Virginia,95.96,278
+47,Hilltop Supermart,Roanoke,Virginia,93.89,339
+48,Green Valley Bazaar,Virginia Beach,Virginia,90.35,439
+49,Downtown Market,Virginia Beach,Virginia,93.97,490
+50,Westside Supermart,Richmond,Virginia,93.24,448
+51,Hilltop Bazaar,Norfolk,Virginia,91.93,77
+52,Downtown Market,Hampton,Virginia,87.27,312
+53,Green Valley Depot,Virginia Beach,Virginia,96.54,95
+54,Green Valley Bazaar,Chesapeake,Virginia,87.24,104
+55,Central Depot,Virginia Beach,Virginia,93.88,118
+56,Green Valley Grocery,Newport News,Virginia,98.81,215
+57,Westside Bazaar,Chesapeake,Virginia,90.31,122
+58,Central Depot,Richmond,Virginia,94.71,77
+59,Central Grocery,Chesapeake,Virginia,87.59,153
+60,Hilltop Grocery,Alexandria,Virginia,91.54,378
+61,Downtown Supermart,Hampton,Virginia,86.04,345
+62,Downtown Supermart,Roanoke,Virginia,91.0,217
+63,Downtown Depot,Virginia Beach,Virginia,87.38,481
+64,Green Valley Bazaar,Charlottesville,Virginia,88.59,413
+65,Westside Market,Virginia Beach,Virginia,86.23,448
+66,Central Market,Alexandria,Virginia,93.87,135
+67,Central Depot,Arlington,Virginia,97.96,327
+68,Hilltop Supermart,Virginia Beach,Virginia,89.46,75
+69,Central Depot,Richmond,Virginia,87.97,331
+70,Downtown Grocery,Arlington,Virginia,92.77,497
+71,Green Valley Supermart,Alexandria,Virginia,89.82,92
+72,Downtown Grocery,Roanoke,Virginia,90.21,438
+73,Central Grocery,Newport News,Virginia,96.78,393
+74,Hilltop Grocery,Norfolk,Virginia,94.27,361
+75,Hilltop Depot,Newport News,Virginia,93.49,65
+76,Green Valley Depot,Arlington,Virginia,98.48,360
+77,Green Valley Depot,Chesapeake,Virginia,94.14,62
+78,Green Valley Market,Richmond,Virginia,97.0,115
+79,Hilltop Grocery,Hampton,Virginia,89.15,482
+80,Hilltop Depot,Virginia Beach,Virginia,94.77,349
+81,Westside Bazaar,Hampton,Virginia,88.23,344
+82,Hilltop Grocery,Newport News,Virginia,85.87,446
+83,Central Grocery,Roanoke,Virginia,96.15,155
+84,Central Market,Hampton,Virginia,87.77,187
+85,Westside Market,Charlottesville,Virginia,95.49,465
+86,Central Supermart,Arlington,Virginia,85.81,195
+87,Hilltop Supermart,Arlington,Virginia,97.91,488
+88,Green Valley Bazaar,Roanoke,Virginia,95.26,328
+89,Hilltop Bazaar,Chesapeake,Virginia,98.56,479
+90,Downtown Depot,Virginia Beach,Virginia,92.63,451
+91,Green Valley Grocery,Newport News,Virginia,91.5,488
+92,Green Valley Supermart,Charlottesville,Virginia,86.46,129
+93,Green Valley Depot,Arlington,Virginia,88.59,420
+94,Hilltop Grocery,Alexandria,Virginia,85.51,216
+95,Hilltop Bazaar,Virginia Beach,Virginia,90.45,62
+96,Westside Market,Chesapeake,Virginia,92.66,353
+97,Downtown Market,Charlottesville,Virginia,93.98,494
+98,Westside Grocery,Charlottesville,Virginia,96.91,139
+99,Downtown Depot,Chesapeake,Virginia,87.21,119
+100,Central Market,Hampton,Virginia,90.1,63
