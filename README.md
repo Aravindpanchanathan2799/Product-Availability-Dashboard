@@ -61,4 +61,26 @@ Refer to the Entity-Relationship Diagram below:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/Product-Availability-Dashboard.git
+2. Import the Schema:
+3. Open MySQL Workbench.
+   Execute the SQL scripts in the /sql directory to create the schema and load the data.
+4. Open the Tableau Dashboard:
+   Open the .twbx file in Tableau to view the dashboard.
+5. Explore the Data:
+   Use filters and interactive components to analyze insights.
+6. Identified categories and suppliers contributing to stock-out situations.
+7. Highlighted regions with the largest availability gaps.
+8. Flagged products requiring immediate restocking to prevent lost sales.
+
+## References
+- **[Tableau Whitepaper: Top 10 Retail Dashboards for Better Performance](https://www.tableau.com/learn/whitepapers/top-10-retail-dashboards-better-performance)**
+
+---
+
+## Acknowledgments
+- **ChatGPT**: For generating realistic datasets.
+- **Tableau**: For building the visualizations.
+- **MySQL Workbench**: For managing and structuring the data.
+
+---
 
