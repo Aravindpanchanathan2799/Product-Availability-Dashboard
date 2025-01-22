@@ -60,7 +60,7 @@ Refer to the Entity-Relationship Diagram below:
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Product-Availability-Dashboard.git
+   git clone https://github.com/Aravindpanchanathan2799/Product-Availability-Dashboard.git
 2. Import the Schema:
 3. Open MySQL Workbench.
    Execute the SQL scripts in the /sql directory to create the schema and load the data.
